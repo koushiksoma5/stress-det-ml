@@ -1,0 +1,3 @@
+- [ ] Edit my-project/src/App.css to add .Stress { text-align: center; }
+- [ ] Run npm run dev to start the dev server
+- [ ] Use browser to verify text is centered
